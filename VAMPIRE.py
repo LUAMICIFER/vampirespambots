@@ -28,7 +28,7 @@ glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
 
 buttons = [
     [
-        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Gladiators_Projects")),
+        (Button.url("Owner", url="https://t.me/Lumai_cifer")),
         (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
     ],
     [
@@ -186,10 +186,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 01!")
             await Bot1.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot1(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 01!")
@@ -200,7 +200,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 01!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot1 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot1.start()
@@ -212,10 +212,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 02!")
             await Bot2.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot2(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 02!")
@@ -226,7 +226,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 02!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot2 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot2.start()
@@ -238,10 +238,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 03!")
             await Bot3.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot3(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 03!")
@@ -252,7 +252,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 03!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot3 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot3.start()
@@ -264,10 +264,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 04!")
             await Bot4.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot4(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 04!")
@@ -278,7 +278,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 04!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot4 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot4.start()
@@ -290,10 +290,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 05!")
             await Bot5.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot5(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 05!")
@@ -304,7 +304,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 05!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot5 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot5.start()
@@ -316,10 +316,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 06!")
             await Bot6.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot6(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 06!")
@@ -330,7 +330,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 06!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot6 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot6.start()
@@ -342,10 +342,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 07!")
             await Bot7.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot7(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 07!")
@@ -356,7 +356,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 07!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot7 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot7.start()
@@ -368,10 +368,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 08!")
             await Bot8.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot8(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 08!")
@@ -382,7 +382,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 08!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot8 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot8.start()
@@ -394,10 +394,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 09!")
             await Bot9.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot9(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 09!")
@@ -408,7 +408,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 09!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot9 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot9.start()
@@ -420,10 +420,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 10!")
             await Bot10.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot10(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 10!")
@@ -434,7 +434,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 10!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot10 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot10.start()
@@ -446,10 +446,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 11!")
             await Bot11.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot11(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 11!")
@@ -460,7 +460,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 11!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot11 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot11.start()
@@ -472,10 +472,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 12!")
             await Bot12.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot12(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 12!")
@@ -486,7 +486,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 12!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot12 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot12.start()
@@ -498,10 +498,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 13!")
             await Bot13.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot13(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 13!")
@@ -512,7 +512,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 13!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot13 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot13.start()
@@ -524,10 +524,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 14!")
             await Bot14.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot14(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 14!")
@@ -538,7 +538,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 14!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot14 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot14.start()
@@ -550,10 +550,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 15!")
             await Bot15.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot15(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 15!")
@@ -564,7 +564,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 15!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot15 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot15.start()
@@ -576,10 +576,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 16!")
             await Bot16.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot16(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 16!")
@@ -590,7 +590,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 16!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot16 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot16.start()
@@ -602,10 +602,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 17!")
             await Bot17.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot17(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 17!")
@@ -616,7 +616,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 17!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot17 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot17.start()
@@ -628,10 +628,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 18!")
             await Bot18.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot18(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 18!")
@@ -642,7 +642,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 18!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot18 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot18.start()
@@ -654,10 +654,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 19!")
             await Bot19.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot19(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 19!")
@@ -668,7 +668,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 19!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot19 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot19.start()
@@ -680,10 +680,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 20!")
             await Bot20.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot20(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 20!")
@@ -694,7 +694,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 20!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot20 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot20.start()
@@ -706,10 +706,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 21!")
             await Bot21.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot21(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 21!")
@@ -720,7 +720,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 21!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot21 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot21.start()
@@ -732,10 +732,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 22!")
             await Bot22.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot22(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 22!")
@@ -746,7 +746,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 22!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot22 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot22.start()
@@ -758,10 +758,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 23!")
             await Bot23.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot23(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 23!")
@@ -772,7 +772,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 23!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot23 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot23.start()
@@ -784,10 +784,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 24!")
             await Bot24.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot24(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 24!")
@@ -798,7 +798,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 24!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot24 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot24.start()
@@ -810,10 +810,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 25!")
             await Bot25.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot25(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 25!")
@@ -824,7 +824,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 25!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot25 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot25.start()
@@ -836,10 +836,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 26!")
             await Bot26.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot26(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 26!")
@@ -850,7 +850,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 26!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot26 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot26.start()
@@ -862,10 +862,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 27!")
             await Bot27.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot27(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 27!")
@@ -876,7 +876,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 27!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot27 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot27.start()
@@ -888,10 +888,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 28!")
             await Bot28.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot28(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 28!")
@@ -902,7 +902,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 28!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot28 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot28.start()
@@ -914,10 +914,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 29!")
             await Bot29.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot29(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 29!")
@@ -928,7 +928,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 29!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot29 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot29.start()
@@ -940,10 +940,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 30!")
             await Bot30.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot30(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 30!")
@@ -954,7 +954,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 30!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot30 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot30.start()
@@ -966,10 +966,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 31!")
             await Bot31.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot31(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 31!")
@@ -980,7 +980,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 31!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot31 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot31.start()
@@ -992,10 +992,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 32!")
             await Bot32.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot32(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 32!")
@@ -1006,7 +1006,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 32!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot32 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot32.start()
@@ -1018,10 +1018,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 33!")
             await Bot33.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot33(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 33!")
@@ -1032,7 +1032,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 33!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot33 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot33.start()
@@ -1044,10 +1044,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 34!")
             await Bot34.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot34(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 34!")
@@ -1058,7 +1058,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 34!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot34 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot34.start()
@@ -1070,10 +1070,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 35!")
             await Bot35.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot35(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 35!")
@@ -1084,7 +1084,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 35!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot35 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot35.start()
@@ -1096,10 +1096,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 36!")
             await Bot36.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot36(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 36!")
@@ -1110,7 +1110,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 36!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot36 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot36.start()
@@ -1122,10 +1122,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 37!")
             await Bot37.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot37(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 37!")
@@ -1136,7 +1136,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 37!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot37 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot37.start()
@@ -1148,10 +1148,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 38!")
             await Bot38.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot38(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 38!")
@@ -1162,7 +1162,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 38!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot38 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot38.start()
@@ -1174,10 +1174,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 39!")
             await Bot39.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot39(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 39!")
@@ -1188,7 +1188,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 39!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot39 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot39.start()
@@ -1200,10 +1200,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 40!")
             await Bot40.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot40(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 40!")
@@ -1214,7 +1214,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 40!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot40 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot40.start()
@@ -1225,10 +1225,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 41!")
             await Bot41.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot41(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 41!")
@@ -1239,7 +1239,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 41!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot41 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot41.start()
@@ -1251,10 +1251,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 42!")
             await Bot42.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot42(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 42!")
@@ -1265,7 +1265,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 42!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot42 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot42.start()
@@ -1277,10 +1277,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 43!")
             await Bot43.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot43(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 43!")
@@ -1291,7 +1291,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 43!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot43 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot43.start()
@@ -1303,10 +1303,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 44!")
             await Bot44.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot44(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 44!")
@@ -1317,7 +1317,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 44!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot44 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot44.start()
@@ -1329,10 +1329,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 45!")
             await Bot45.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot45(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 45!")
@@ -1343,7 +1343,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 45!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot45 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot45.start()
@@ -1355,10 +1355,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 46!")
             await Bot46.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot46(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 46!")
@@ -1369,7 +1369,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 46!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot46 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot46.start()
@@ -1381,10 +1381,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 47!")
             await Bot47.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot47(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 47!")
@@ -1395,7 +1395,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 47!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot47 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot47.start()
@@ -1407,10 +1407,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 48!")
             await Bot48.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot48(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 48!")
@@ -1421,7 +1421,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 48!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot48 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot48.start()
@@ -1433,10 +1433,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 49!")
             await Bot49.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot49(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 49!")
@@ -1447,7 +1447,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 49!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot49 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot49.start()
@@ -1459,10 +1459,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 50!")
             await Bot50.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot50(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 50!")
@@ -1473,7 +1473,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 50!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot50 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot50.start()
@@ -1484,10 +1484,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 51!")
             await Bot51.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot51(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 51!")
@@ -1498,7 +1498,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 51!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot51 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot51.start()
@@ -1510,10 +1510,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 52!")
             await Bot52.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot52(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 52!")
@@ -1524,7 +1524,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 52!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot52 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot52.start()
@@ -1536,10 +1536,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 53!")
             await Bot53.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot53(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 53!")
@@ -1550,7 +1550,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 53!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot53 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot53.start()
@@ -1562,10 +1562,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 54!")
             await Bot54.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot54(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 54!")
@@ -1576,7 +1576,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 54!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot54 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot54.start()
@@ -1588,10 +1588,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 55!")
             await Bot55.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot55(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 55!")
@@ -1602,7 +1602,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 55!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot55 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot55.start()
@@ -1614,10 +1614,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 56!")
             await Bot56.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot56(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 56!")
@@ -1628,7 +1628,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 56!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot56 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot56.start()
@@ -1640,10 +1640,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 57!")
             await Bot57.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot57(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 57!")
@@ -1654,7 +1654,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 57!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot57 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot57.start()
@@ -1666,10 +1666,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 58!")
             await Bot58.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot58(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 58!")
@@ -1680,7 +1680,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 58!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot58 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot58.start()
@@ -1692,10 +1692,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 59!")
             await Bot59.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot59(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 59!")
@@ -1706,7 +1706,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 59!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot59 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot59.start()
@@ -1718,10 +1718,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 60!")
             await Bot60.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot60(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 60!")
@@ -1732,7 +1732,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 60!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot60 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot60.start()
@@ -1743,10 +1743,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 61!")
             await Bot61.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot61(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 61!")
@@ -1757,7 +1757,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 61!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot61 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot61.start()
@@ -1769,10 +1769,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 62!")
             await Bot62.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot62(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 62!")
@@ -1783,7 +1783,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 62!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot62 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot62.start()
@@ -1795,10 +1795,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 63!")
             await Bot63.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot63(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 63!")
@@ -1809,7 +1809,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 63!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot63 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot63.start()
@@ -1821,10 +1821,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 64!")
             await Bot64.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot64(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 64!")
@@ -1835,7 +1835,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 64!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot64 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot64.start()
@@ -1847,10 +1847,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 65!")
             await Bot65.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot65(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 65!")
@@ -1861,7 +1861,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 65!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot65 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot65.start()
@@ -1873,10 +1873,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 66!")
             await Bot66.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot66(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 66!")
@@ -1887,7 +1887,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 66!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot66 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot66.start()
@@ -1899,10 +1899,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 67!")
             await Bot67.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot67(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 67!")
@@ -1913,7 +1913,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 67!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot67 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot67.start()
@@ -1925,10 +1925,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 68!")
             await Bot68.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot68(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 68!")
@@ -1939,7 +1939,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 68!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot68 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot68.start()
@@ -1951,10 +1951,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 69!")
             await Bot69.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot69(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 69!")
@@ -1965,7 +1965,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 69!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot69 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot69.start()
@@ -1977,10 +1977,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 70!")
             await Bot70.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "https://t.me/VAMPIRE_EMPIRE_OFFICIAL"
             await Bot70(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@VAMPIRE_EMPIRE_OFFICIAL"))
         except:
             try:
                 print("Got String Session 10!")
@@ -1991,7 +1991,7 @@ async def gladiators_bots():
                 pass
     else:
         print("Didn't get String Session 70!")
-        sessn = "Gladiators"
+        sessn = "VAMPIRE"
         Bot70 = TelegramClient(sessn, API_ID, API_HASH)
         try:
             await Bot70.start()
@@ -2064,7 +2064,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 fellows = {}
@@ -2168,7 +2168,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 
@@ -2786,7 +2786,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -3106,7 +3106,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Lumai_cifer crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     for i in range(counter):
                         curmse = random.choice(curses)
@@ -3115,7 +3115,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Lumai_cifer crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3237,7 +3237,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Lumai_cifer crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     xd = 0
                     while xd == 0:
@@ -3247,7 +3247,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Lumai_cifer crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3580,7 +3580,7 @@ async def dreplycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @Lumai_cifer crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 try:
@@ -3599,7 +3599,7 @@ async def dreplycurse(e):
             user_id = int(user_idd)
             name = umser.first_name
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @Lumai_cifer crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 gey = fellows.get(user_id)
@@ -3616,7 +3616,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 
@@ -3794,7 +3794,7 @@ async def alive(e):
 # usage
 
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 
@@ -3994,7 +3994,7 @@ async def _(dyno):
         reply_to=dyno.id,
         force_document=True,
         thumb="resources/Gladiators.jpeg",
-        caption="@Gladiators_Projects spammerbots logs.",
+        caption="@Lumai_cifer spammerbots logs.",
     )
 
     await asyncio.sleep(5)
@@ -4146,7 +4146,7 @@ async def dyno_usage(dyno):
 
 
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 
@@ -4241,7 +4241,7 @@ async def alive(e):
 #BIO
 
 
-# @TeamGladiators
+# @Lumai_cifer
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -4773,7 +4773,7 @@ async def _(e):
         reboot_text = """
 \        /     /\        |\    /|   -----|    ---------   |---|   |-------
  \      /     /  \       | \  / |   |    |        |       |   |   |
-  \    /     /----\      |  \/  |   |_|        |       |_|   |-------
+  \    /     /----\      |  \/  |   |____|        |       |___|   |-------
    \  /     /      \     |      |   |             |       |\      |   
     \/     /        \    |      |   |         --------    | \     |-------
 Rᴇʙᴏᴏᴛɪɴɢ ʙᴏᴛ...
@@ -5061,7 +5061,7 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
             Bot70.disconnect()
         except Exception as e:
             pass
-        args = [sys.executable, "-m", "Gladiators.py"]
+        args = [sys.executable, "-m", "VAMPIRE.py"]
         os.execl(sys.executable, *args)
         quit()
 
