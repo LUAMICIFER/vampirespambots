@@ -29,11 +29,11 @@ glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
 buttons = [
     [
         (Button.url("Owner", url="https://t.me/Lumai_cifer")),
-        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
+        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/VAMPIRE_EMPIRE_OFFICIAL"))
     ],
     [
         (Button.url("Rᴇᴘᴏ", url="https://github.com/LUAMICIFER/vampirespambots")),
-        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Gladiators_Projects/36"))
+        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Lumai_cifer"))
     ]
 ]
 
